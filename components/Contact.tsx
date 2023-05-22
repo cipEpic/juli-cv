@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const contact = ()   => {
   return (
@@ -32,7 +32,7 @@ const contact = ()   => {
                     <button className=" text-white font-semibold bg-gradient-to-b
                     from-cyan-500 to-blue-600 px-6 py-3 my-8
                     mx-auto flex items-center rounded-md hover:scale-110
-                    duration-300"> Let's Talk</button>
+                    duration-300"> Lets Talk</button>
                 </form>
             </div>
         </div>

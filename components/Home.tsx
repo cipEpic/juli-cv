@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 import {Link} from "react-scroll/modules";
-import { url } from 'inspector';
-import Image from 'next/image';
-import HeroImage from '../components/dekta.jpg'
+import { url } from "inspector";
+import Image from "next/image";
+import HeroImage from "../components/dekta.jpg"
 
 function Home ()  {
 
@@ -12,7 +12,7 @@ function Home ()  {
        flex items-center justify-center px-4 md:flex-row py-7">
             <div className="flex flex-col p-10 justify-center"> 
                 <h2 className="text-4xl sm:text-6xl font-bold
-                text-sky-50">HI I'm Juli</h2>
+                text-sky-50">HI Im Juli</h2>
                 <p className="text-white py-5 max-w-md text-xl">
                     Im a junior Development. now Im 
                     continuing my studies at Taksu Tech.
@@ -32,7 +32,7 @@ function Home ()  {
                     </Link>
                 </div>
             </div>
-            <div className=''>
+            <div className="">
                 <Image width={400} height={400} src={HeroImage} alt="my profile"
                 className="rounded-2xl mx-auto w-2/3 mt-10" />
             </div>

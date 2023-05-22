@@ -1,12 +1,12 @@
-import React from 'react';
-import Image from 'next/image';
-import html  from '../components/html.png';
-import css from '../components/css.png';
-import php from '../components/php.png';
-import java from '../components/java.png';
-import javaScript from '../components/javaScript.png'
-    import { javascript } from 'webpack';
-// import '/globals.css'
+import React from "react";
+import Image from "next/image";
+import html  from "../components/html.png";
+import css from "../components/css.png";
+import php from "../components/php.png";
+import java from "../components/java.png";
+import javaScript from "../components/javaScript.png"
+    import { javascript } from "webpack";
+// import "/globals.css"
 
 const Experience = () => {
 
@@ -14,32 +14,32 @@ const Experience = () => {
         {
             id: 1,
             src: html,
-            title: 'Html',
-            style: 'shadow-orange-500',
+            title: "Html",
+            style: "shadow-orange-500",
         },
         {
             id: 2,
             src: css,
-            title: 'Css',
-            style: 'shadow-blue-500',
+            title: "Css",
+            style: "shadow-blue-500",
         },
         {
             id: 3,
             src: php,
-            title: 'Php',
-            style: 'shadow-gray-500',
+            title: "Php",
+            style: "shadow-gray-500",
         },
         {
             id: 4,
             src: javaScript,
-            title: 'javasrcipt',
-            style: 'shadow-yellow-500',
+            title: "javasrcipt",
+            style: "shadow-yellow-500",
         },
         {
             id: 5,
             src: java,
-            title: 'Java',
-            style: 'shadow-sky-50',
+            title: "Java",
+            style: "shadow-sky-50",
         },
     ]
 
