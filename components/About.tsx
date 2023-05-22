@@ -17,14 +17,14 @@ const About = () => {
             border-gray-500">About</p>
         </div>
         <p className="py-6 text-2xl">
-            Hi, I'm Putri Juli Antari,
+            Hi, Im Putri Juli Antari,
             but my friends call me Juli or Dekta.
             I am a student from Wira Harapan Vocational Schools. 
             I studied programming for 2 years, 
             I started programming since 2021. 
-            The only languages ​​I learned were Html, 
+            The only languages i learned were html
             JavaScript Css, Java, Php and C++. 
-            and now I'm learning a new language that is
+            and now Im learning a new language that is
             Nextjs, React, TypeScript and tailwind.
         </p>
     </div>

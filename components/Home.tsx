@@ -14,7 +14,7 @@ function Home ()  {
                 <h2 className="text-4xl sm:text-6xl font-bold
                 text-sky-50">HI I'm Juli</h2>
                 <p className="text-white py-5 max-w-md text-xl">
-                    I'm a junior Development. now I'm 
+                    Im a junior Development. now Im 
                     continuing my studies at Taksu Tech.
                     to increase my knowledge about Sofrware 
                     development.
